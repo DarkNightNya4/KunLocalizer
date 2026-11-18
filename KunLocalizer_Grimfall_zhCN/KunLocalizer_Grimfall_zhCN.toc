@@ -1,0 +1,5 @@
+## Interface: 30300
+## Title: KunLocalizer pack p.49f5def7ba8d58f289c083c571960c9c
+## Dependencies: KunLocalizer
+Config.lua
+Pack.lua

@@ -1,0 +1,21 @@
+## Interface: 30300
+## Title: KunLocalizer
+## Notes: Explicit adapter localization runtime / KLP v1
+## SavedVariables: KunLocalizerDB, KunLocalizerTooltipDB, KunLocalizerAutoDB, KunLocalizerPreferences, KunLocalizerSettings, KunLocalizerRefreshDB
+Core.lua
+Configuration.lua
+Registry.lua
+Dictionary.lua
+Tooltip.lua
+TooltipCapture.lua
+EntityRefresh.lua
+AutoCapture.lua
+BatchReset.lua
+ListNames.lua
+Capture.lua
+Bridge.lua
+Runtime.lua
+PanelLocale.lua
+Startup.lua
+Panel.lua
+Events.lua
